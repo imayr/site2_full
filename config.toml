@@ -1,0 +1,38 @@
+#baseURL = '/site2'
+baseURL = ''
+languageCode = 'en-us'
+title = 'imayr'
+theme = "docsy"
+canonifyURLs = false
+
+enableRobotsTXT = false
+
+ contentDir = "content"
+ defaultContentLanguage = "en"
+ defaultContentLanguageInSubdir = true
+
+ [languages]
+     [languages.en]
+         title = "IMayr EN Knowledge Base"
+         description = "IMayr does docs"
+         languageName ="English"
+         contentDir = "content/en"
+         # Weight used for sorting.
+         weight = 1
+    [languages.de]
+         title = "IMayr DE Knowledge Base"
+         description = "IMayr macht docs"
+         languageName ="Deutsch"
+         contentDir = "content/de"
+         time_format_default = "02.01.2006"
+         time_format_blog = "02.01.2006"
+
+ [params.ui]
+# Enable to show the side bar menu in its compact state.
+sidebar_menu_compact = true
+
+
+[[menu.main]]
+    name = "Knowledge base"
+    weight = 50
+    url = "https://doc1.docusnap.com/site3"
