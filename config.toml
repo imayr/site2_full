@@ -1,5 +1,5 @@
-#baseURL = '/site2'
-baseURL = ''
+baseURL = '/site2'
+#baseURL = ''
 languageCode = 'en-us'
 title = 'imayr'
 theme = "docsy"
@@ -13,14 +13,14 @@ enableRobotsTXT = false
 
  [languages]
      [languages.en]
-         title = "IMayr EN Knowledge Base"
+         title = "IMayr EN Documentation"
          description = "IMayr does docs"
          languageName ="English"
          contentDir = "content/en"
          # Weight used for sorting.
          weight = 1
     [languages.de]
-         title = "IMayr DE Knowledge Base"
+         title = "IMayr DE Dokumentation"
          description = "IMayr macht docs"
          languageName ="Deutsch"
          contentDir = "content/de"
@@ -33,6 +33,6 @@ sidebar_menu_compact = true
 
 
 [[menu.main]]
-    name = "Knowledge base"
+    name = "Knowledge Base"
     weight = 50
     url = "https://doc1.docusnap.com/site3"

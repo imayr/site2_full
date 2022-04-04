@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>IMayr DE Knowledge Base – Dokumentation</title>
-    <link>/de/docs/</link>
-    <description>Recent content in Dokumentation on IMayr DE Knowledge Base</description>
+    <title>IMayr DE Dokumentation – Dokumentation</title>
+    <link>/site2/de/docs/</link>
+    <description>Recent content in Dokumentation on IMayr DE Dokumentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="/de/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/site2/de/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       

@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>IMayr EN Knowledge Base – Overview</title>
-    <link>/en/docs/overview/</link>
-    <description>Recent content in Overview on IMayr EN Knowledge Base</description>
+    <title>IMayr EN Documentation – Overview</title>
+    <link>/site2/en/docs/overview/</link>
+    <description>Recent content in Overview on IMayr EN Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="/en/docs/overview/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/site2/en/docs/overview/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Docs: IMayr framework</title>
-      <link>/en/docs/overview/framework/</link>
+      <link>/site2/en/docs/overview/framework/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/en/docs/overview/framework/</guid>
+      <guid>/site2/en/docs/overview/framework/</guid>
       <description>
         
         

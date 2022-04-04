@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>IMayr EN Knowledge Base – Get started</title>
-    <link>/en/docs/quickstart/</link>
-    <description>Recent content in Get started on IMayr EN Knowledge Base</description>
+    <title>IMayr EN Documentation – Get started</title>
+    <link>/site2/en/docs/quickstart/</link>
+    <description>Recent content in Get started on IMayr EN Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="/en/docs/quickstart/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/site2/en/docs/quickstart/index.xml" rel="self" type="application/rss+xml" />
     
     
       
